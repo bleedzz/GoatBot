@@ -1,4 +1,4 @@
-Bot de Negociações para Discord /n
+Bot de Negociações para Discord <br/>
 Este projeto foi desenvolvido exclusivamente por mim, Raphael M Fattori, para atender às necessidades específicas de uma empresa de vendas operando em um servidor de Discord. O bot foi criado com o objetivo de facilitar a comunicação, apresentar os serviços oferecidos e gerenciar as negociações de maneira privada e segura.
 
 📋 Funcionalidades do Bot
