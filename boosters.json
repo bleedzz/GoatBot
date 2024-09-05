@@ -1,0 +1,70 @@
+{ 
+"boosters":[
+        {
+            "champion":"ezreal" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlycGk1OTk3b25nZGZrMTd3azUzanIxcnp0ZWphbHF6bGdvY2dvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lndxH96VCEhlfwE1AV/giphy.gif",
+            "mains": "Ezreal, Yasuo e Kai'sa"
+        },
+        {  
+            "champion":"Rakan" ,
+            "description": "Grão Mestre",
+            "color": "15548997",
+            "linkImg":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0N2w4MTR6b2NoaTA3d2hjazJyeTR3Ynl3ZXNldHMxNmFzazBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLyQbGy0ch6nN5IdnO/giphy.gif",
+            "mains": "Bardo, Braum, Rakan e Pyke"
+        },
+        {
+            "champion":"Zed" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ2amdkdm44Y2E1cG84ZHoyNDZvZDZuNmppZWF4OXphMzAzbmp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oLSajUSQ0TAnVenHL1/giphy.gif",
+            "mains": "Zed, Kassadin e Talon"
+        },
+        {
+            "champion":"kog" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpyaWg3eWE4bWh4cmR0NnI0bXdkNHAzOTVzMXhsbzlob2JkZWhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ee9nmtJDlBBbiUEyPy/giphy.gif",
+            "mains": "Kog' maw, Jinx e Rengar"
+        },
+        {
+            "champion":"twitch" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFyNXdnc3E5NXZhcXE5Y3NxZGR6eDMwb3h3cm5lczQxY2F0emVqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6iFAJiwloKcsvhbDZ/giphy.gif",
+            "mains": "Twitch, Vayne e Ashe"
+        },
+        {
+            "champion":"graves" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhcTBkNHh4anJ0OGtwbWIzNGpwMXd4a2EzZzQ1NWp2a3p5bWpsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RF6j3cbIMvoYjHAx4d/giphy.gif",
+            "mains": "Graves, Nidalee, Lee sin e Kayn"
+        },
+        {
+            "champion":"katarina" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9xZ2lxcnJkdmMyNWJ0NmFvaWVwY3B0Zzc1azF3dDM3dm80bGRmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BA6HugMRH4r5J0B7HA/giphy.gif",
+            "mains": "Katarina, Yasuo, Vlad e Jinx"
+        },
+        {
+            "champion":"rengar" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ2bDU4OWR1ZHg5NXZ2aXJiNXoxMmlwaHlxZmltZDBkb2Ywc3EwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3GRARq88BhUGsC0TvT/giphy.gif",
+            "mains": "Rengar, Kindred e Lee sin"
+        },
+        {
+            "champion":"kaisa" ,
+            "description": "Challenger",
+            "color": "15548997",
+            "linkImg":"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk5eXV1bDI2OGJuZnBlcnZ2MXhxNjRkbHMwc3FwbnZvaWxvMnZ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vu1Fbm1eAjkYAWjopx/giphy.gif",
+            "mains": "Kai'sa, Jinx e Briar"
+        }        
+            ]
+
+}
+
+    
